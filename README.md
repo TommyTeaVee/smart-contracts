@@ -14,7 +14,7 @@ npm install -g truffle
 Clone OpenBazaar-SmartContracts
 
 ```sh
-git clone https://github.com/OpenBazaar/smart-contracts.git
+git clone https://github.com/TommyTeaVee/smart-contracts.git
 cd smart-contracts
 npm i
 ```
